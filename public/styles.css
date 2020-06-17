@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div.demo-editor .rdw-editor-main {
+  border-style: solid !important;
+  height: 200px !important;
+}
+body {
+  background: antiquewhite;
+}
+.rdw-option-wrapper {
+  background: lightblue !important;
+}
